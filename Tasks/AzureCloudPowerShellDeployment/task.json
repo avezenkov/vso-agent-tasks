@@ -57,7 +57,7 @@
       "label": "CsPkg",
       "defaultValue": "",
       "required": true,
-      "helpMarkDown": "Path of CsPkg under the default artifact directory."
+      "helpMarkDown": "Path of CsPkg of the form **\\*.cspkg or a path right to a .cspkg file"
     },
     {
       "name": "CsCfg",
@@ -65,7 +65,7 @@
       "label": "CsCfg",
       "defaultValue": "",
       "required": true,
-      "helpMarkDown": "Path of CsCfg under the default artifact directory."
+      "helpMarkDown": "Path of CsCfg of the form **\\*.cspkg or a path right to a .cspkg file"
     },
     {
       "name": "Slot",
